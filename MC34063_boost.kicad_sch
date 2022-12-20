@@ -824,7 +824,7 @@
     (in_bom yes) (on_board yes)
     (uuid 97897742-c724-4498-8ad1-8e14cd481914)
     (property "Reference" "D1" (id 0) (at 163.195 95.25 0))
-    (property "Value" "D_Schottky_Small" (id 1) (at 173.355 95.25 0))
+    (property "Value" "1N4149" (id 1) (at 170.18 95.25 0))
     (property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (id 2) (at 156.845 96.52 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1118,7 +1118,7 @@
       (reference "C6") (unit 1) (value "100uF") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
     )
     (path "/97897742-c724-4498-8ad1-8e14cd481914"
-      (reference "D1") (unit 1) (value "D_Schottky_Small") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+      (reference "D1") (unit 1) (value "1N4149") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
     (path "/56f0ed1d-b051-4666-80cc-c23759923f3f"
       (reference "L1") (unit 1) (value "330u") (footprint "")
