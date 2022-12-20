@@ -1028,7 +1028,7 @@
     (property "Reference" "D?" (id 0) (at 207.01 107.8864 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "RED" (id 1) (at 207.01 110.4264 90)
+    (property "Value" "GREEN" (id 1) (at 207.01 110.4264 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "" (id 2) (at 205.105 109.22 90)
@@ -1332,7 +1332,7 @@
       (reference "D1") (unit 1) (value "1N4149") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
     (path "/b6f82404-04e2-4ad3-ba18-b5709d3e33d3"
-      (reference "D?") (unit 1) (value "RED") (footprint "")
+      (reference "D?") (unit 1) (value "GREEN") (footprint "")
     )
     (path "/f1e8466d-b516-415c-bd57-3e7e0e36268f"
       (reference "D?") (unit 1) (value "RED") (footprint "")
