@@ -1258,7 +1258,7 @@
     (property "Reference" "D?" (id 0) (at 86.36 98.3614 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "RED" (id 1) (at 86.36 100.9014 90)
+    (property "Value" "GREEN" (id 1) (at 86.36 100.9014 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "" (id 2) (at 84.455 99.695 90)
@@ -1335,7 +1335,7 @@
       (reference "D?") (unit 1) (value "GREEN") (footprint "")
     )
     (path "/f1e8466d-b516-415c-bd57-3e7e0e36268f"
-      (reference "D?") (unit 1) (value "RED") (footprint "")
+      (reference "D?") (unit 1) (value "GREEN") (footprint "")
     )
     (path "/56f0ed1d-b051-4666-80cc-c23759923f3f"
       (reference "L1") (unit 1) (value "330u") (footprint "")
